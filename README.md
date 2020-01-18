@@ -1,22 +1,22 @@
 # Vjudge
 vjudge.net/group/zstu/
 
-训练0：基础训练
-训练0.5：基础训练2
-训练1: dfs/bfs专项训练
-训练1.5：贪心算法
-训练2：简单DP
-训练3：01背包专题
-训练4：最短路
-训练5：线段树
-训练6：并查集 & 最小生成树
-训练7：树状数组
-训练8：分块
-训练9：简单二分
-ZSTU - 12.07 - 训练赛
-Codeforces Round #496 (Div. 3)
-Day-1 and Day-2 快速幂、前缀和、差分、二分、三分
-Day-3 and Day-4 DFS+BFS+STL
-Day-5  休息
-Day-6 零食排位赛
-Day 6 and Day 7一起打牌专题
+训练0：基础训练  
+训练0.5：基础训练2  
+训练1: dfs/bfs专项训练  
+训练1.5：贪心算法  
+训练2：简单DP  
+训练3：01背包专题  
+训练4：最短路  
+训练5：线段树  
+训练6：并查集 & 最小生成树  
+训练7：树状数组  
+训练8：分块   
+训练9：简单二分   
+ZSTU - 12.07 - 训练赛  
+Codeforces Round #496 (Div. 3)  
+Day-1 and Day-2 快速幂、前缀和、差分、二分、三分  
+Day-3 and Day-4 DFS+BFS+STL  
+Day-5  休息  
+Day-6 零食排位赛  
+Day 6 and Day 7一起打牌专题  
