@@ -1,5 +1,6 @@
 # Vjudge
-vjudge.net/group/zstu/
+[Vjudge](vjudge.net/group/zstu/)
+VJ刷题收藏
 
 - 训练0：基础训练  
 - 训练0.5：基础训练2  
