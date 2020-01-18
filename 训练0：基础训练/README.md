@@ -1,6 +1,6 @@
 # Problemset
 
-A 	HDU 2500 	做一个正气的杭电人  
+A 	  HDU 2500 	做一个正气的杭电人  
 B 	HDU 2501 	Tiling_easy version  
 C 	HDU 2502 	月之数  
 D 	HDU 2503 	a/b + c/d  
