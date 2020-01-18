@@ -12,7 +12,7 @@ I 	HDU 2524 	矩形A + B
 J 	HDU 2537 	8球胜负  
 K 	HDU 2547 	无剑无我  
 L 	HDU 2548 	两军交锋  
-M   HDU 2549 	壮志难酬  
+M       HDU 2549 	壮志难酬  
 N 	HDU 2550 	百步穿杨  
 O 	HDU 2551 	竹青遍野  
 P 	HDU 2552 	三足鼎立  
