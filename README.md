@@ -1,10 +1,10 @@
 # Vjudge
 VJ_Group题集  
 [Vjudge_ACM_ZSTU_Group](https://vjudge.net/group/zstu)  
-[Vjudge_Home](https://vjudge.net/)  
+[Vjudge_Home](https://vjudge.net[/)  
 
-- 训练0：基础训练  
-- 训练0.5：基础训练2  
+- [训练0：基础训练](https://github.com/Jokernolove/Vjudge/tree/master/%E8%AE%AD%E7%BB%830%EF%BC%9A%E5%9F%BA%E7%A1%80%E8%AE%AD%E7%BB%83)  
+- [训练0.5：基础训练2](https://github.com/Jokernolove/Vjudge/tree/master/%E8%AE%AD%E7%BB%830.5%EF%BC%9A%E5%9F%BA%E7%A1%80%E8%AE%AD%E7%BB%832)  
 - 训练1: dfs/bfs专项训练  
 - 训练1.5：贪心算法  
 - 训练2：简单DP  
