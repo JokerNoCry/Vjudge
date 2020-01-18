@@ -1,6 +1,7 @@
 # Vjudge
-[Vjudge](vjudge.net/group/zstu/)
-VJ刷题收藏
+VJ_Group题集  
+[Vjudge_ACM_ZSTU_Group](https://vjudge.net/group/zstu)  
+[Vjudge_Home](https://vjudge.net/)  
 
 - 训练0：基础训练  
 - 训练0.5：基础训练2  
