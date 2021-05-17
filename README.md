@@ -12,7 +12,7 @@ VJ_Group题集
 - 训练4：最短路  
 - 训练5：线段树  
 - 训练6：并查集 & 最小生成树  
-- 训练7：树状数组  
+- [训练7：树状数组](https://github.com/JokerNoCry/Vjudge/tree/master/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84)  
 - 训练8：分块   
 - 训练9：简单二分   
 - ZSTU - 12.07 - 训练赛  
