@@ -17,9 +17,8 @@ VJ_Group题集
 - 训练9：简单二分   
 - ZSTU - 12.07 - 训练赛  
 - Codeforces Round #496 (Div. 3)  
-- Day-1 and Day-2 快速幂、前缀和、差分、二分、三分  
-- Day-3 and Day-4 DFS+BFS+STL  
-- Day-5  休息  
-- Day-6 零食排位赛  
-- [Day 6 and Day 7一起打牌专题](https://github.com/Jokernolove/Vjudge/tree/master/%E4%B8%80%E8%B5%B7%E6%89%93%E7%89%8C%E4%B8%93%E9%A2%98)  
+- [专题1 快速幂、前缀和、差分、二分、三分](https://github.com/JokerNoCry/Vjudge/tree/master/%E5%BF%AB%E9%80%9F%E5%B9%82%E3%80%81%E5%89%8D%E7%BC%80%E5%92%8C%E3%80%81%E5%B7%AE%E5%88%86%E3%80%81%E4%BA%8C%E5%88%86%E3%80%81%E4%B8%89%E5%88%86)  
+- [专题2 一起打牌专题](https://github.com/Jokernolove/Vjudge/tree/master/%E4%B8%80%E8%B5%B7%E6%89%93%E7%89%8C%E4%B8%93%E9%A2%98)  
+- [专题3 单调栈&单调队列](https://github.com/JokerNoCry/Vjudge/tree/master/%E5%8D%95%E8%B0%83%E6%A0%88%26%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97) 
+- 
 ...
